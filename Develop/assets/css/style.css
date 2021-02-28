@@ -41,6 +41,11 @@ body {
     margin-left: 25px;
 }
 
+nav {
+    display:inline-block;
+    float:right;
+}
+
 a {
     color: #ffffff;
     text-decoration: none;
