@@ -4,7 +4,7 @@ Horiseon is a company dedicated to managing others' online reputation and managi
 
 The framework of the website was built using HTML5 and CSS3. This is the first and final build of this version of the website.
 
-Link: https://ajz91.github.io/urban-octo-telegram/
-Repo: https://github.com/ajz91/urban-octo-telegram
+Link: https://ajz91.github.io/HoriseonSolutions/
+Repo: https://github.com/ajz91/HoriseonSolutions
 
 ![](assets/images/screenshot.png)
