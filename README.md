@@ -7,4 +7,4 @@ The framework of the website was built using HTML5 and CSS3. This is the first a
 Link: https://ajz91.github.io/urban-octo-telegram/
 Repo: https://github.com/ajz91/urban-octo-telegram
 
-![screenshot](images/screenshot.png)
+![](assets/images/screenshot.png)
